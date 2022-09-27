@@ -8,7 +8,7 @@
 ### As a Person
 
 
-<img src="./personalpicture.jpg" alt="personal picture" width = "400">
+<img src="./personalpicture.JPG" alt="personal picture" width = "400">
 
 My name is **Ryan Truong** and I am a **4th year student** at UCSD majoring in **Bioinformatics** with a minor in **Computer Science**. I was born in Los Angeles and moved to San Diego when I was very young, so I have basically lived in San Diego my whole life. 
 
