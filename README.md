@@ -1,2 +1,3 @@
 # cse110lab
-CSE 110 Lab Week 0 &amp; 1
+"Ryan's User Page"
+"My favorite programming language is JavaScript"
